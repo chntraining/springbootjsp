@@ -1,0 +1,412 @@
+src/main/java/com/cts/ems027/Ems027Application.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/Ems027Application.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/Ems027Application.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/Ems027Application.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/Ems027Application.java:13:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/cts/ems027/Ems027Application.java:13:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/cts/ems027/Ems027Application.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'application' is not assigned and could be declared final
+src/main/java/com/cts/ems027/Ems027Application.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'application' is not assigned and could be declared final
+src/main/java/com/cts/ems027/Ems027Application.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/Ems027Application.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/Ems027Application.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cts/ems027/Ems027Application.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/controller/EmployeeController.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/controller/EmployeeController.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:26:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/ems027/controller/EmployeeController.java:26:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/ems027/controller/EmployeeController.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/controller/EmployeeController.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/controller/EmployeeController.java:27:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the employeeService field if you want a default access modifier
+src/main/java/com/cts/ems027/controller/EmployeeController.java:27:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the employeeService field if you want a default access modifier
+src/main/java/com/cts/ems027/controller/EmployeeController.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:45:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:45:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:50:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/cts/ems027/controller/EmployeeController.java:50:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/cts/ems027/controller/EmployeeController.java:51:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/cts/ems027/controller/EmployeeController.java:51:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/cts/ems027/controller/EmployeeController.java:53:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/cts/ems027/controller/EmployeeController.java:53:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/cts/ems027/controller/EmployeeController.java:59:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:59:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:65:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:65:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:70:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:70:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empname' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empname' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:75:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:75:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/EmployeeController.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empname' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/EmployeeController.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empname' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/controller/IndexController.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/controller/IndexController.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:26:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/controller/IndexController.java:26:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/controller/IndexController.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/controller/IndexController.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/controller/IndexController.java:27:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the employee field if you want a default access modifier
+src/main/java/com/cts/ems027/controller/IndexController.java:27:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the employee field if you want a default access modifier
+src/main/java/com/cts/ems027/controller/IndexController.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:27:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/ems027/controller/IndexController.java:27:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/ems027/controller/IndexController.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'model' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'model' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:36:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:36:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'model' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'model' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:42:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:42:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:48:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:48:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:54:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:54:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ename' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ename' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:54:	UseObjectForClearerAPI:	UseObjectForClearerAPI: Rather than using a lot of String arguments, consider using a container object for those values.
+src/main/java/com/cts/ems027/controller/IndexController.java:54:	UseObjectForClearerAPI:	UseObjectForClearerAPI: Rather than using a lot of String arguments, consider using a container object for those values.
+src/main/java/com/cts/ems027/controller/IndexController.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dob' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dob' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:69:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:69:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:70:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'li' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:70:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'li' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:70:	ShortVariable:	ShortVariable: Avoid variables with short names like li
+src/main/java/com/cts/ems027/controller/IndexController.java:70:	ShortVariable:	ShortVariable: Avoid variables with short names like li
+src/main/java/com/cts/ems027/controller/IndexController.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:71:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:71:	ShortVariable:	ShortVariable: Avoid variables with short names like mv
+src/main/java/com/cts/ems027/controller/IndexController.java:71:	ShortVariable:	ShortVariable: Avoid variables with short names like mv
+src/main/java/com/cts/ems027/controller/IndexController.java:78:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:78:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:78:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:78:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:78:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:78:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:84:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'empl' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:84:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'empl' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:87:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:87:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:87:	ShortVariable:	ShortVariable: Avoid variables with short names like mv
+src/main/java/com/cts/ems027/controller/IndexController.java:87:	ShortVariable:	ShortVariable: Avoid variables with short names like mv
+src/main/java/com/cts/ems027/controller/IndexController.java:89:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cts/ems027/controller/IndexController.java:89:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cts/ems027/controller/IndexController.java:98:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:98:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:98:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empl' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:98:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empl' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:100:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:100:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:100:	ShortVariable:	ShortVariable: Avoid variables with short names like mv
+src/main/java/com/cts/ems027/controller/IndexController.java:100:	ShortVariable:	ShortVariable: Avoid variables with short names like mv
+src/main/java/com/cts/ems027/controller/IndexController.java:107:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:107:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:108:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:108:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:108:	ShortVariable:	ShortVariable: Avoid variables with short names like mv
+src/main/java/com/cts/ems027/controller/IndexController.java:108:	ShortVariable:	ShortVariable: Avoid variables with short names like mv
+src/main/java/com/cts/ems027/controller/IndexController.java:109:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'mv'
+src/main/java/com/cts/ems027/controller/IndexController.java:109:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'mv'
+src/main/java/com/cts/ems027/controller/IndexController.java:114:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:114:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/IndexController.java:114:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empl' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:114:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'empl' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/IndexController.java:115:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/cts/ems027/controller/IndexController.java:115:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/cts/ems027/controller/MvcConfiguration.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/controller/MvcConfiguration.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/controller/MvcConfiguration.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/controller/MvcConfiguration.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/controller/MvcConfiguration.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'registry' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/MvcConfiguration.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'registry' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/MvcConfiguration.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'resolver' could be declared final
+src/main/java/com/cts/ems027/controller/MvcConfiguration.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'resolver' could be declared final
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ctx' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ctx' is not assigned and could be declared final
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:12:	MissingOverride:	MissingOverride: The method 'onStartup(ServletContext)' is missing an @Override annotation.
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:12:	MissingOverride:	MissingOverride: The method 'onStartup(ServletContext)' is missing an @Override annotation.
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:13:	CloseResource:	CloseResource: Ensure that resources like this AnnotationConfigWebApplicationContext object are closed after use
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:13:	CloseResource:	CloseResource: Ensure that resources like this AnnotationConfigWebApplicationContext object are closed after use
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:13:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'webCtx' could be declared final
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:13:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'webCtx' could be declared final
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'servlet' could be declared final
+src/main/java/com/cts/ems027/controller/WebServletConfiguration.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'servlet' could be declared final
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:16:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:16:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:18:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/cts/ems027/exception/ControllerExceptionHandler.java:18:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'enableSuppression' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'enableSuppression' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:12:	LongVariable:	LongVariable: Avoid excessively long variable names like writableStackTrace
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:12:	LongVariable:	LongVariable: Avoid excessively long variable names like writableStackTrace
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'writableStackTrace' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'writableStackTrace' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/EmployeeNotFoundException.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:5:	DataClass:	DataClass: The class 'ErrorMessage' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:5:	DataClass:	DataClass: The class 'ErrorMessage' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:6:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:6:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:6:	ImmutableField:	ImmutableField: Private field 'statusCode' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:6:	ImmutableField:	ImmutableField: Private field 'statusCode' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:7:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:7:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:7:	ImmutableField:	ImmutableField: Private field 'timestamp' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:7:	ImmutableField:	ImmutableField: Private field 'timestamp' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:8:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:8:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:8:	ImmutableField:	ImmutableField: Private field 'message' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:8:	ImmutableField:	ImmutableField: Private field 'message' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:9:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:9:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:9:	ImmutableField:	ImmutableField: Private field 'description' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:9:	ImmutableField:	ImmutableField: Private field 'description' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'description' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'description' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'statusCode' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'statusCode' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'timestamp' is not assigned and could be declared final
+src/main/java/com/cts/ems027/exception/ErrorMessage.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'timestamp' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/model/Employee.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/model/Employee.java:15:	DataClass:	DataClass: The class 'Employee' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/cts/ems027/model/Employee.java:15:	DataClass:	DataClass: The class 'Employee' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=12, WMC=15)
+src/main/java/com/cts/ems027/model/Employee.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/model/Employee.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/model/Employee.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/model/Employee.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/model/Employee.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dob' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dob' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:83:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:83:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dob' is not assigned and could be declared final
+src/main/java/com/cts/ems027/model/Employee.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dob' is not assigned and could be declared final
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeByEmployeeName': the method is declared in an interface type
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeByEmployeeName': the method is declared in an interface type
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeByEmail': the method is declared in an interface type
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeByEmail': the method is declared in an interface type
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByEmployeeNameOrderByEmployeeNameAsc': the method is declared in an interface type
+src/main/java/com/cts/ems027/repository/EmployeeRepository.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByEmployeeNameOrderByEmployeeNameAsc': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'saveEmployee': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'saveEmployee': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllEmployees': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllEmployees': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'fetchEmployeeById': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'fetchEmployeeById': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateEmployee': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateEmployee': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateEmp': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateEmp': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteEmployee': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteEmployee': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeByEmail': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeByEmail': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeByEmployeeName': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findEmployeeByEmployeeName': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cts/ems027/service/EmployeeService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByEmployeeNameOrderByEmployeeNameAsc': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByEmployeeNameOrderByEmployeeNameAsc': the method is declared in an interface type
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:18:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:18:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the employeeRepository field if you want a default access modifier
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the employeeRepository field if you want a default access modifier
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:19:	LongVariable:	LongVariable: Avoid excessively long variable names like employeeRepository
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:19:	LongVariable:	LongVariable: Avoid excessively long variable names like employeeRepository
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'employee' could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'employee' could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:39:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:39:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:44:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:44:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emp' could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:44:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emp' could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:46:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:46:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employee' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:56:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:56:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emp' could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emp' could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeId' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:66:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:66:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:76:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:76:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'employeeName' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:81:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/cts/ems027/service/EmployeeServiceImpl.java:81:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/test/java/com/cts/ems027/Ems027ApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cts/ems027/Ems027ApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/cts/ems027/Ems027ApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/cts/ems027/Ems027ApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/cts/ems027/Ems027ApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/cts/ems027/Ems027ApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/cts/ems027/Ems027ApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/cts/ems027/Ems027ApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/cts/ems027/Ems027ApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/cts/ems027/Ems027ApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
